@@ -20,7 +20,7 @@
 
 #### Reading
 
-- (Henry Farrell and Bruce Schneier. "Democracy's Dilemma." *Boston Review*. [[Link]](http://bostonreview.net/forum-henry-farrell-bruce-schneier-democracys-dilemma)
+- Henry Farrell and Bruce Schneier. "Democracy's Dilemma." *Boston Review*. [[Link]](http://bostonreview.net/forum-henry-farrell-bruce-schneier-democracys-dilemma)
 - Facebook. "Mark Zuckerberg Stands for Voice and Free Expression." [[Link]](https://about.fb.com/news/2019/10/mark-zuckerberg-stands-for-voice-and-free-expression/)
 - Wikimedia. Data Archives. [[Link]](https://dumps.wikimedia.org/backup-index.html) Download some snippets and read it.
 
