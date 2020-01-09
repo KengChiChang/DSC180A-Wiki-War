@@ -63,10 +63,10 @@ All edit histories are publicly available through [Wikimedia](https://dumps.wiki
 
 Note: Your proposal is NOT limited to be about edit wars. The replication is the process to give you hands-on experience of the data and detect possible directions.
 
-- Detecting controversies, number of revert edits or text-based?
-- What kind of features predict edit wars?
-- Do editors coordinate to change certain topics?
-- How effective are Wikipedia's certain editing restrictions?
-- Algorithms to judge edit wars, comparing with human judgments?
+- Visualize the controversies across languages and across time
+- Combinine text and edits to improve controversy detection
+- Detect and prevent systematic coordination to attack Wikipedia
+- Develop algorithms to make automatic judgments on edit wars, evaluate its effectiveness, and compare with human judgments
+- Evaluate the effectiveness of Wikipedia's policy to combat coordination attacks
 
 
