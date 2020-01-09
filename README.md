@@ -2,10 +2,6 @@
 
 How to create a better Internet environment to exchange knowledge and ideas?
 
-
-![Wikipedia Edit Wars](https://iibawards-prod.s3.amazonaws.com/projects/images/000/000/409/large.jpg)
-
-
 - TA: [Keng-Chi Chang](https://kengchichang.com/) `<kechang@ucsd.edu>`
 - Discussion Section A02
     + Time: Wednesdays 9:00-9:50am
@@ -14,6 +10,9 @@ How to create a better Internet environment to exchange knowledge and ideas?
     + Time: Fridays 9:00-11:00am or by appointment
     + Sign up [here](https://calendly.com/kengchichang/dsc180a) in advance
     + Location: CSE Basement (B250)
+
+![Wikipedia Edit Wars](https://www.economist.com/img/b/1280/1594/85/sites/default/files/20130810_GDC178_1190_1.png)
+
 
 ## Schedule
 
