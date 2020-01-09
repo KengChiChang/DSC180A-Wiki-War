@@ -5,7 +5,7 @@
 
 How to create a better Internet environment to exchange knowledge and ideas?
 
-- TA: [Keng-Chi Chang](https://kengchichang.com/) <kechang@ucsd.edu>
+- TA: [Keng-Chi Chang](https://kengchichang.com/)  &lt;kechang@ucsd.edu&gt;
 - Discussion Section A02
     + Time: Wednesdays 9:00-9:50am
     + Location: Warren Lecture Hall 2113
