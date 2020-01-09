@@ -2,7 +2,11 @@
 
 How to create a better Internet environment to exchange knowledge and ideas?
 
-- TA: [Keng-Chi Chang](www.kengchichang.com) `<kechang@ucsd.edu>`
+
+![Wikipedia Edit Wars](https://iibawards-prod.s3.amazonaws.com/projects/images/000/000/409/large.jpg)
+
+
+- TA: [Keng-Chi Chang](https://kengchichang.com/) `<kechang@ucsd.edu>`
 - Discussion Section A02
     + Time: Wednesdays 9:00-9:50am
     + Location: Warren Lecture Hall 2113
@@ -30,7 +34,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
 
 * Tags: Social Media, Online Conflict, Information Control
 * Data: Unstructured text, Webpage metadata
-* Methods: Causal Inference, Natural Language Processing, Networks.
+* Methods: Causal Inference, Natural Language Processing, Network Analysis
 
 
 ## Background
@@ -43,7 +47,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
 
 ### Possible Projects
 
-Note: Your proposal is NOT limited to be about edit wars. The replication is the process to get you know the data and detect possible directions.
+Note: Your proposal is NOT limited to be about edit wars. The replication is the process to give you hands-on experience of the data and detect possible directions.
 
 - What predicts edit wars?
 - Do editors coordinate to change certain topics?
