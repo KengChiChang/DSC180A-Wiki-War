@@ -1,4 +1,4 @@
-# Week 1: Introduction to Domain/Problem
+# Week 1: Introduction
 
 ## Topics
 

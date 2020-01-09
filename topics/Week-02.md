@@ -1,4 +1,4 @@
-# Week 2: Domain Background + Data (Part I)
+# Week 2: Background & Data I: Wisdom of the crowds and bias in articles
 
 ## Topics
 
