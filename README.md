@@ -20,8 +20,8 @@ How to create a better Internet environment to exchange knowledge and ideas?
 |Week|Topic|
 |--|--|
 |1|[Introduction](topics/Week-01.md)|
-|2|Background & Data I|
-|3|Background & Data II|
+|2|[Background & Data I: Wisdom of the crowds and bias in articles](topics/Week-02.md)|
+|3|Background & Data II: Edit wars and controversies|
 |4|Techniques I|
 |5|Techniques II|
 |6|Replication Result I|
@@ -59,7 +59,7 @@ All edit histories are publicly available through [Wikimedia](https://dumps.wiki
 - For the second part of the replication, we will use the (raw) Wikipedia data released by [Wikimedia Data Archives](https://dumps.wikimedia.org/backup-index.html).
 
 
-### Possible Projects
+## Possible Projects
 
 Note: Your proposal is NOT limited to be about edit wars. The replication is the process to give you hands-on experience of the data and detect possible directions.
 
