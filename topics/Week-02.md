@@ -16,7 +16,7 @@
 ### Discussion questions from the reading/data
 
 - When is wisdom of the crowds good? When is it undermined?
-- What are some ways to measure quality/widom of the crowds in Wikipedia data?
+- What are some ways to measure quality/wisdom of the crowds in Wikipedia data?
 - What are some ways to measure coordination in Wikipedia data? 
 - What are some ways to measure bias in articles in Wikipedia data?
 
