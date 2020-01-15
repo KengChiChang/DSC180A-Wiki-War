@@ -70,3 +70,10 @@ Note: Your proposal is NOT limited to be about edit wars. The replication is the
 - Evaluate the effectiveness of Wikipedia's policy to combat coordination attacks
 
 
+## Useful Resources
+
+- [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+- [Data Visualization: A Practical Introduction](http://socviz.co/)
+- [Structural Topic Model](https://www.structuraltopicmodel.com/)
