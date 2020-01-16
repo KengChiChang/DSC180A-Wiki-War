@@ -10,7 +10,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
     + Time: Wednesdays 9:00-9:50am
     + Location: Warren Lecture Hall 2113
 - Lab/Office Hours
-    + Time: Fridays 9:00-11:00am or by appointment
+    + Time: Fridays 9:00-10:00am or by appointment
     + Sign up [here](https://calendly.com/kengchichang/dsc180a) in advance
     + Location: CSE Basement (B250)
 
