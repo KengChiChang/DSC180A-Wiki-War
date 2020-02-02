@@ -16,8 +16,8 @@ In this assignment you will:
     [light dump data](http://wwm.phy.bme.hu/LD/ld_en_wiki.zip) 
     of the English Wikipedia from the 
     [WikiWarMonitor](http://wwm.phy.bme.hu/light.html) website. 
-      - Articles are separated by their names within the file. 
-      - Each line of the file below the name of an article, contains a 
+    -   Articles are separated by their names within the file. 
+    -   Each line of the file below the name of an article, contains a 
         delimiter "^^^" followed by the timestamp of each edit, a binary flag 
         of 0/1 corresponding to a normal/revert edit, an accenting integer 
         code, starting from 1, assigned to each new revision, whose text is 
@@ -29,20 +29,20 @@ In this assignment you will:
     data.
 
 * (Edit Wars) Replicate the paper on edit war.
-      - Derive the algorithm described in [Yasseri et al 2012a](https://arxiv.org/pdf/1107.3689.pdf) 
+    -   Derive the algorithm described in [Yasseri et al 2012a](https://arxiv.org/pdf/1107.3689.pdf) 
         and calculate the M statistic for each article in the English 
         Wikipedia from the light dump data.
-      - Describe and visualize the most and the least controversial articles.
-      - Describe and visualize how controversiality for some articles evolve 
+    -   Describe and visualize the most and the least controversial articles.
+    -   Describe and visualize how controversiality for some articles evolve 
         over time. You can take [Yasseri et al 2012b](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038869) 
         as a reference.
         
 * (Raw Data to Light Dump Revisited) 
-      - Validate the data ingestion you did for the first assignment by 
+    -   Validate the data ingestion you did for the first assignment by 
         comparing the light dump downloaded from WikiWarMonitor with the data 
         you ingested over the same set of articles and the same period of 
         time. Are they consistent? If not, why?
-      - Revise the code for data ingestion (from raw format to light dump 
+    -   Revise the code for data ingestion (from raw format to light dump 
         format) and cleaning to enhance efficiency.
 
 
