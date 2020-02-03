@@ -30,20 +30,28 @@ In this assignment you will:
 
 * (Edit Wars) Replicate the paper on edit war.
     -   Derive the algorithm described in [Yasseri et al 2012a](https://arxiv.org/pdf/1107.3689.pdf) 
-        and calculate the M statistic for each article in the English 
-        Wikipedia from the light dump data.
-    -   Describe and visualize the most and the least controversial articles.
-    -   Describe and visualize how controversiality for some articles evolve 
-        over time. You can take [Yasseri et al 2012b](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038869) 
+        and calculate the M statistic for each article in the light dump data.
+    -   Describe and the most and the least controversial articles by listing 
+        the titles of 20 articles with the largest M and the titles of 20 
+        articles with the smallest M along with their corresponding M 
+        statistic.
+    -   Describe and visualize how controversiality for 2 articles evolve 
+        over time by plotting date on the x-axis and the M statistic on the
+        y-axis. You can take [Yasseri et al 2012b](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038869) 
         as a reference.
         
 * (Raw Data to Light Dump Revisited) 
     -   Validate the data ingestion you did for the first assignment by 
-        comparing the light dump downloaded from WikiWarMonitor with the data 
-        you ingested over the same set of articles and the same period of 
-        time. Are they consistent? If not, why?
+        comparing the light dump downloaded from WikiWarMonitor with any 
+        2 of the articles you ingested in the first assignment over the same 
+        period of time as a way to test whether you did the data ingestion and 
+        cleaning correctly. 
+        Are they in line with each other? Namely, do they point to the same
+        sets of reverts between edits?
+        If not, are there some errors in your code for ingestion?
     -   Revise the code for data ingestion (from raw format to light dump 
-        format) and cleaning to enhance efficiency.
+        format) and cleaning to enhance efficiency and correct the error, if 
+        any.
 
 
 ### Part 2
