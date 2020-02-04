@@ -59,6 +59,13 @@ All edit histories are publicly available through [Wikimedia](https://dumps.wiki
 - For the second part of the replication, we will use the (raw) Wikipedia data released by [Wikimedia Data Archives](https://dumps.wikimedia.org/backup-index.html).
 
 
+## Assignments
+
+- [Assignment 1](assignments/assignment-1.md) Due Jan 24 11:59 PM
+- [Assignment 2](assignments/assignment-2.md) Due Feb 15 11:59 PM
+
+
+
 ## Possible Projects
 
 Note: Your proposal is NOT limited to be about edit wars. The replication is the process to give you hands-on experience of the data and detect possible directions.
