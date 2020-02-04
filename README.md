@@ -21,14 +21,14 @@ How to create a better Internet environment to exchange knowledge and ideas?
 |--|--|--|
 |1|[Introduction](topics/Week-01.md)|[Slides](slides/Week-01.pdf)|
 |2|[Background & Data I: Wisdom of the crowds and bias in articles](topics/Week-02.md)|[Slides](slides/Week-02.pdf)|
-|3|[Background & Data II: Edit wars and controversies](topics/Week-03.md)|[Jan 24 Assignment 1 Due](assignments/assignment-1.md) |
-|4|[Techniques I](topics/Week-04.md)|Slides|
-|5|Techniques II|Slides|
-|6|Replication Result I|Slides|
-|7|Replication Result II|Slides|
-|8|Impacts and Ethics|Slides|
-|9|Work on Proposals|Slides|
-|10|Work on Proposals|Slides|
+|3|[Background & Data II: Edit wars and controversies](topics/Week-03.md)|[Jan 24 Assignment 1 Due](assignments/assignment-1.md)|
+|4|[Techniques I](topics/Week-04.md)| |
+|5|[Techniques II](topics/Week-05.md)| |
+|6|Replication Result I|[Feb 15 Assignment 2 Due](assignments/assignment-2.md)|
+|7|Replication Result II| |
+|8|Impacts and Ethics| |
+|9|Work on Proposals| |
+|10|Work on Proposals| |
 
 
 ## Keywords
