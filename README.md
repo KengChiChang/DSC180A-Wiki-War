@@ -23,7 +23,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
 |2|[Background & Data I: Wisdom of the crowds and bias in articles](topics/Week-02.md)|[Slides](slides/Week-02.pdf)|
 |3|[Background & Data II: Edit wars and controversies](topics/Week-03.md)|[Jan 24 Assignment 1 Due](assignments/assignment-1.md)|
 |4|[Techniques I](topics/Week-04.md)| |
-|5|[Techniques II](topics/Week-05.md)| |
+|5|[Techniques II](topics/Week-05.md)|[Slides](slides/Week-05.pdf)|
 |6|Replication Result I|[Feb 15 Assignment 2 Due](assignments/assignment-2.md)|
 |7|Replication Result II| |
 |8|Impacts and Ethics| |
