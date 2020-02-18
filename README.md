@@ -25,7 +25,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
 |4|[Techniques I](topics/Week-04.md)| |
 |5|[Techniques II](topics/Week-05.md)|[Slides](slides/Week-05.pdf)|
 |6|[Replication Result I](topics/Week-06.md)|[Feb 15 Assignment 2 Due](assignments/assignment-2.md)|
-|7|Replication Result II| |
+|7|[Replication Result II](topics/Week-07.md)| |
 |8|Impacts and Ethics| |
 |9|Work on Proposals| |
 |10|Work on Proposals| |
