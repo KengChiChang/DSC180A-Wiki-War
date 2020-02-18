@@ -1,18 +1,20 @@
-### Week 7: Discussion of Main Result (Part 2 -- Eval)
+# Week 7: Discussion of Main Result II
 
-#### Topics
+## Topics
 
-- Exploration of pages with high engagement in different contexts, replication some of the substantive results of the paper.
-- Thinking a little bit about shortcomings, evaluation of the results.
-- Applying the M-statistics and what they've learned to 2019.
+- Evaluation of the results.
+- Group project speed dating.
 
-#### Reading
+### Reading
 
-- Ulrik Brandes and Jürgen Lerner. "Visual Analysis of Controversy in User-Generated Encyclopedias." Information Visualization. [[Link]](https://journals.sagepub.com/doi/pdf/10.1057/palgrave.ivs.9500171?casa_token=UuwXHp__AkQAAAAA:s145WlToQX5jVBD0M-OTL11uFguCf0gW7w4dSuYpOaQHaTduVzGoGuThI9vqqeBjwuLugzN1oRMlP4o)
-- Hoda Sepehri Rad, Aibek  Makazhanov, Davood Rafiei, and Denilson Barbosa. "Leveraging Editor Collaboration Patterns in Wikipedia." Proceedings of the 23rd ACM conference on Hypertext and social media. [[Link]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.353.8540&amp;rep=rep1&amp;type=pdf)
-- Hoda Sepehri Rad and Denilson Barbosa. "Identifying Controversial Articles in Wikipedia: A Comparative Study." Proceedings of the Eighth Annual International Symposium on Wikis and Open Collaboration. [[Link]](https://www.opensym.org/ws2012/p18wikisym2012.pdf)
+- Wired. 
+    - "There's a lot Wikipedia can teach us about fighting disinformation." [[Link]](https://www.wired.co.uk/article/wikipedia-fake-news-disinformation)
+    - "On Chinese Wikipedia, a bitter battle rages to define the Hong Kong protests." [[Link]](https://www.wired.co.uk/article/hong-kong-protests-wikipedia)
+    - "On Wikipedia, a fight is raging over coronavirus disinformation." [[Link]](https://www.wired.co.uk/article/wikipedia-coronavirus)
+- Hoda Sepehri Rad and Denilson Barbosa. 2012. "Identifying Controversial Articles in Wikipedia: A Comparative Study." Proceedings of the Eighth Annual International Symposium on Wikis and Open Collaboration. [[Link]](https://www.opensym.org/ws2012/p18wikisym2012.pdf)
 
-#### Discussion questions from the reading/data
+### Discussion questions from the reading/data
 
-- What did you find while replicating the M-statistics using new Wikimedia data?
-- What are some shortcomings in the M-statistics measure?  How do the other measures make up for them?
+- What did you find while replicating the M-statistics?
+- What discretion did you make for your code?
+- What are some shortcomings in the M-statistics measure? How do the other measures make up for them?
