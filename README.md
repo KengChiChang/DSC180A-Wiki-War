@@ -27,7 +27,7 @@ How to create a better Internet environment to exchange knowledge and ideas?
 |6|[Replication Result I](topics/Week-06.md)|[Feb 15 Assignment 2 Due](assignments/assignment-2.md)|
 |7|[Replication Result II](topics/Week-07.md)| |
 |8|[Impacts and Ethics](topics/Week-08.md)| |
-|9|Work on Proposals| |
+|9|[Work on Proposals](topics/Week-09.md)| |
 |10|Work on Proposals| |
 
 
@@ -63,7 +63,7 @@ All edit histories are publicly available through [Wikimedia](https://dumps.wiki
 
 - [Assignment 1](assignments/assignment-1.md) Due Jan 24 11:59 PM
 - [Assignment 2](assignments/assignment-2.md) Due Feb 15 11:59 PM
-
+- [Assignment 3](assignments/assignment-2.md) Due Mar 14 11:59 PM
 
 
 ## Possible Projects
