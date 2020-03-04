@@ -1,13 +1,13 @@
-### Week 9: Related Questions in the Domain
+# Week 9: Related Questions in the Domain
 
-#### Topics
+## Topics
 
 - Project proposal discussion
 
-#### Reading
+### Reading
 
-- No Reading (bring proposals to present)
+- No Reading
 
-#### Discussion questions from the reading/data
+### Discussion questions from the reading/data
 
 - Project proposal
