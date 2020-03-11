@@ -63,7 +63,7 @@ All edit histories are publicly available through [Wikimedia](https://dumps.wiki
 
 - [Assignment 1](assignments/assignment-1.md) Due Jan 24 11:59 PM
 - [Assignment 2](assignments/assignment-2.md) Due Feb 15 11:59 PM
-- [Assignment 3](assignments/assignment-2.md) Due Mar 14 11:59 PM
+- [Assignment 3](assignments/assignment-3.md) Due Mar 14 11:59 PM
 
 
 ## Possible Projects
